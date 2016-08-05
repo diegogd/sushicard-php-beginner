@@ -1,0 +1,83 @@
+{
+  "01": {
+    "title": "Environment Notes",
+    "filename": "01",
+    "language": "php",
+    "subject": "php",
+    "card_number": 1,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "02": {
+    "title": "Project overview",
+    "filename": "02",
+    "language": "php",
+    "subject": "php",
+    "card_number": 2,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "03": {
+    "title": "PHP As a webpage - Output",
+    "filename": "03",
+    "language": "php",
+    "subject": "php",
+    "card_number": 3,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "04": {
+    "title": "PHP As a webpage - Variables",
+    "filename": "04",
+    "language": "php",
+    "subject": "php",
+    "card_number": 4,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "05": {
+    "title": "PHP functions",
+    "filename": "05",
+    "language": "php",
+    "subject": "php",
+    "card_number": 5,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "06": {
+    "title": "GET/POST Parameters",
+    "filename": "06",
+    "language": "php",
+    "subject": "php",
+    "card_number": 6,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "07": {
+    "title": "Conditionals",
+    "filename": "07",
+    "language": "php",
+    "subject": "php",
+    "card_number": 7,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "08": {
+    "title": "Sharing varibles",
+    "filename": "08",
+    "language": "php",
+    "subject": "php",
+    "card_number": 8,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  },
+  "09": {
+    "title": "Final adjustments",
+    "filename": "09",
+    "language": "php",
+    "subject": "php",
+    "card_number": 9,
+    "series_total_cards": 9,
+    "series_title": "PHP Beginner Sushi"
+  }
+}
