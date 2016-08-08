@@ -1,25 +1,25 @@
 {
-  "serie_title": "PHP Beginner Sushi",
+  "serie_title": "Sushi - Iniciación a PHP",
   "language": "es",
   "subject": "php",
-  "description": "This tutorial guide you in the creation of a game in PHP. The game is guess the number game, you will learn some basics of the language.",
+  "description": "Este tutorial te guiará en la creación de un pequeño juego en PHP. El juego es \"Adivina el número\", aprenderás los principios básicos del lenguaje.",
   "author": "CoderDojo Foundation",
   "website": "http://www.coderdojo.org",
   "twitter": "@CoderDojo",
   "difficulty": 1,
   "cards": [
     {
-      "title": "Environment Notes",
+      "title": "Comentarios sobre el entorno",
       "filename": "01",
       "card_number": 1
     },
     {
-      "title": "Project overview",
+      "title": "Resumen del proyecto",
       "filename": "02",
       "card_number": 2
     },
     {
-      "title": "PHP - Output",
+      "title": "PHP - Salida",
       "filename": "03",
       "card_number": 3
     },
@@ -29,27 +29,27 @@
       "card_number": 4
     },
     {
-      "title": "PHP functions",
+      "title": "Funciones PHP",
       "filename": "05",
       "card_number": 5
     },
     {
-      "title": "GET/POST Parameters",
+      "title": "GET/POST parámetros",
       "filename": "06",
       "card_number": 6
     },
     {
-      "title": "Conditionals",
+      "title": "Condicionales",
       "filename": "07",
       "card_number": 7
     },
     {
-      "title": "Sharing variables",
+      "title": "Compartiendo variables",
       "filename": "08",
       "card_number": 8
     },
     {
-      "title": "Final adjustments",
+      "title": "Últimos ajustes",
       "filename": "09",
       "card_number": 9
     }

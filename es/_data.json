@@ -1,0 +1,83 @@
+{
+  "01": {
+    "title": "Comentarios sobre el entorno",
+    "filename": "01",
+    "language": "php",
+    "subject": "php",
+    "card_number": 1,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "02": {
+    "title": "Resumen del proyecto",
+    "filename": "02",
+    "language": "php",
+    "subject": "php",
+    "card_number": 2,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "03": {
+    "title": "PHP - Salida",
+    "filename": "03",
+    "language": "php",
+    "subject": "php",
+    "card_number": 3,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "04": {
+    "title": "PHP - Variables",
+    "filename": "04",
+    "language": "php",
+    "subject": "php",
+    "card_number": 4,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "05": {
+    "title": "Funciones PHP",
+    "filename": "05",
+    "language": "php",
+    "subject": "php",
+    "card_number": 5,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "06": {
+    "title": "GET/POST parámetros",
+    "filename": "06",
+    "language": "php",
+    "subject": "php",
+    "card_number": 6,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "07": {
+    "title": "Condicionales",
+    "filename": "07",
+    "language": "php",
+    "subject": "php",
+    "card_number": 7,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "08": {
+    "title": "Compartiendo variables",
+    "filename": "08",
+    "language": "php",
+    "subject": "php",
+    "card_number": 8,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  },
+  "09": {
+    "title": "Últimos ajustes",
+    "filename": "09",
+    "language": "php",
+    "subject": "php",
+    "card_number": 9,
+    "series_total_cards": 9,
+    "series_title": "Sushi - Iniciación a PHP"
+  }
+}
